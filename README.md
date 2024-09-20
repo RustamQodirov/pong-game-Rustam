@@ -1,7 +1,7 @@
-Add Music and Sound Effects\
-Create Power-Ups and Power-Downs\
-Implement Random Spawning System\
-Handle Collision Effects\
-Add Local Multiplayer Mode\
-Develop AI Opponent\
-Add Particle Effects\
+Adding Music and Sound Effects\
+creating Power-Ups and Power-Downs\
+Implementing Random Spawning System\
+Handling Collision Effects\
+Adding Local Multiplayer Mode\
+Developing AI Opponent\
+Adding Particle Effects
