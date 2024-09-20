@@ -1,6 +1,5 @@
-Adding Music and Sound Effects\
-creating Power-Ups and Power-Downs\
-Implementing Random Spawning System\
+Adding music sound, it plays when the game start\
+adding effects to the ball\
 Handling Collision Effects\
 Adding Local Multiplayer Mode\
 Developing AI Opponent\
